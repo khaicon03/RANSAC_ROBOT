@@ -1,2 +1,3 @@
-# final_ws_
-# final_ws_
+# Note
+Nếu bạn là khách. Xin chuyển qua branch "guest"
+
